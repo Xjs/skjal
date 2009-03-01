@@ -331,7 +331,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>1F3DB0EC0F5B389A0011AB38</string>
+										<string>1FCE9D350F5B3A280096ECC1</string>
 										<key>history</key>
 										<array>
 											<string>1F3DAE850F5B11950011AB38</string>
@@ -341,7 +341,7 @@
 											<string>1F3DB06D0F5B30A40011AB38</string>
 											<string>1F3DB06E0F5B30A40011AB38</string>
 											<string>1F3DB0700F5B30A40011AB38</string>
-											<string>1F3DB0EB0F5B38990011AB38</string>
+											<string>1F3DB0EC0F5B389A0011AB38</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -351,7 +351,6 @@
 											<string>1F3DB0730F5B30A40011AB38</string>
 											<string>1F3DB0740F5B30A40011AB38</string>
 											<string>1F3DB0760F5B30A40011AB38</string>
-											<string>1F3DB0780F5B30A40011AB38</string>
 											<string>1F3DB0B20F5B32290011AB38</string>
 										</array>
 									</dict>
@@ -392,6 +391,8 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {628, 283}}</string>
+										<key>RubberWindowFrame</key>
+										<string>315 160 1015 640 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -446,8 +447,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {628, 283}}</string>
-										<key>RubberWindowFrame</key>
-										<string>315 160 1015 640 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -475,11 +474,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>1F3DAFE50F5B26490011AB38</string>
+				<string>1FCE9D320F5B3A0A0096ECC1</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>1F3DAFE60F5B26490011AB38</string>
+				<string>1FCE9D330F5B3A0A0096ECC1</string>
 				<string>1F3DAD1A0F5B0DCC0011AB38</string>
-				<string>1F3DAFE70F5B26490011AB38</string>
+				<string>1FCE9D340F5B3A0A0096ECC1</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -627,14 +626,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>1F3DAFCF0F5B24F80011AB38</string>
+				<string>1FCE9D370F5B3A280096ECC1</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>1F3DAFD00F5B24F80011AB38</string>
-				<string>1F3DAFD10F5B24F80011AB38</string>
-				<string>1F3DAFD20F5B24F80011AB38</string>
-				<string>1F3DAFD30F5B24F80011AB38</string>
-				<string>1F3DAFD40F5B24F80011AB38</string>
+				<string>1FCE9D380F5B3A280096ECC1</string>
+				<string>1FCE9D390F5B3A280096ECC1</string>
+				<string>1FCE9D3A0F5B3A280096ECC1</string>
+				<string>1FCE9D3B0F5B3A280096ECC1</string>
+				<string>1FCE9D3C0F5B3A280096ECC1</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -664,11 +663,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1F3DB0050F5B27380011AB38</string>
-		<string>1F3DB0060F5B27380011AB38</string>
-		<string>1F3DAFBB0F5B1D530011AB38</string>
-		<string>1F3DAEAC0F5B122A0011AB38</string>
-		<string>/Users/jannis/Downloads/ConnectionTest-1/ConnectionTest.xcodeproj</string>
+		<string>/Users/jannis/src/learning/objc/Skjal/connection-test/ConnectionTest.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>315 160 1015 640 0 0 1440 878 </string>
