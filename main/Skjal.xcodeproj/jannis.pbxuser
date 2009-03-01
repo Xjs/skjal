@@ -35,6 +35,7 @@
 		indexTemplatePath = "";
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = x86_64;
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 1FFB42040F5AF26100907206 /* Skjal */;
 		activeTarget = 8D1107260486CEB800E47090 /* Skjal */;
@@ -50,7 +51,7 @@
 					20,
 					364,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -65,8 +66,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 257618529;
-			PBXWorkspaceStateSaveDate = 257618529;
+			PBXPerProjectTemplateStateSaveDate = 257636559;
+			PBXWorkspaceStateSaveDate = 257636559;
 		};
 		sourceControlManager = 1FFB42180F5AF27D00907206 /* Source Control */;
 		userBuildSettings = {

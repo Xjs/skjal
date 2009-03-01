@@ -1,0 +1,406 @@
+// !$*UTF8*$!
+{
+	1F3DAD0C0F5B0DC80011AB38 /* ConnectionTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ConnectionTest;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	1F3DAD200F5B0DCC0011AB38 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	1F3DAD210F5B0DCC0011AB38 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1F3DAE850F5B11950011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DAE860F5B11950011AB38 /* CKConnectionRegistry.h */;
+		name = "CKConnectionRegistry.h: 49";
+		rLen = 0;
+		rLoc = 1798;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 1252;
+	};
+	1F3DAE860F5B11950011AB38 /* CKConnectionRegistry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CKConnectionRegistry.h;
+		path = /Library/Frameworks/Connection.framework/Versions/A/Headers/CKConnectionRegistry.h;
+		sourceTree = "<absolute>";
+	};
+	1F3DAE8F0F5B11950011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DAE900F5B11950011AB38 /* CKConnectionRegistry.h */;
+		name = "CKConnectionRegistry.h: 49";
+		rLen = 0;
+		rLoc = 1798;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 1252;
+	};
+	1F3DAE900F5B11950011AB38 /* CKConnectionRegistry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CKConnectionRegistry.h;
+		path = /Library/Frameworks/Connection.framework/Versions/A/Headers/CKConnectionRegistry.h;
+		sourceTree = "<absolute>";
+	};
+	1F3DAF650F5B19020011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DAF660F5B19020011AB38 /* NSDictionary.h */;
+		name = "NSDictionary.h: 15";
+		rLen = 29;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 149;
+	};
+	1F3DAF660F5B19020011AB38 /* NSDictionary.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDictionary.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSDictionary.h;
+		sourceTree = "<absolute>";
+	};
+	1F3DB05A0F5B30460011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB05B0F5B30460011AB38 /* NSCalendarDate+Connection.h */;
+		name = "NSCalendarDate+Connection.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 1566;
+	};
+	1F3DB05B0F5B30460011AB38 /* NSCalendarDate+Connection.h */ = {
+		isa = PBXFileReference;
+		name = "NSCalendarDate+Connection.h";
+		path = "/Library/Frameworks/Connection.framework/Headers/NSCalendarDate+Connection.h";
+		sourceTree = "<absolute>";
+	};
+	1F3DB05C0F5B30460011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB05D0F5B30460011AB38 /* NSData+Connection.h */;
+		name = "NSData+Connection.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 0;
+	};
+	1F3DB05D0F5B30460011AB38 /* NSData+Connection.h */ = {
+		isa = PBXFileReference;
+		name = "NSData+Connection.h";
+		path = "/Library/Frameworks/Connection.framework/Headers/NSData+Connection.h";
+		sourceTree = "<absolute>";
+	};
+	1F3DB0610F5B30460011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB0620F5B30460011AB38 /* NSCalendarDate+Connection.h */;
+		name = "NSCalendarDate+Connection.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 1566;
+	};
+	1F3DB0620F5B30460011AB38 /* NSCalendarDate+Connection.h */ = {
+		isa = PBXFileReference;
+		name = "NSCalendarDate+Connection.h";
+		path = "/Library/Frameworks/Connection.framework/Headers/NSCalendarDate+Connection.h";
+		sourceTree = "<absolute>";
+	};
+	1F3DB0630F5B30460011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB0640F5B30460011AB38 /* NSData+Connection.h */;
+		name = "NSData+Connection.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 0;
+	};
+	1F3DB0640F5B30460011AB38 /* NSData+Connection.h */ = {
+		isa = PBXFileReference;
+		name = "NSData+Connection.h";
+		path = "/Library/Frameworks/Connection.framework/Headers/NSData+Connection.h";
+		sourceTree = "<absolute>";
+	};
+	1F3DB0660F5B30460011AB38 /* NSDictionary+Connection.h */ = {
+		isa = PBXFileReference;
+		name = "NSDictionary+Connection.h";
+		path = "/Library/Frameworks/Connection.framework/Headers/NSDictionary+Connection.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {567, 518}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 750}";
+		};
+	};
+	1F3DB06B0F5B309A0011AB38 /* CKConnectionProtocol.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CKConnectionProtocol.h;
+		path = /Library/Frameworks/Connection.framework/Versions/A/Headers/CKConnectionProtocol.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 4844}}";
+			sepNavSelRange = "{8180, 17}";
+			sepNavVisRange = "{7837, 362}";
+			sepNavWindowFrame = "{{38, 168}, {1333, 684}}";
+		};
+	};
+	1F3DB06D0F5B30A40011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB0660F5B30460011AB38 /* NSDictionary+Connection.h */;
+		name = "NSDictionary+Connection.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 0;
+	};
+	1F3DB06E0F5B30A40011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB06F0F5B30A40011AB38 /* CKConnectionRegistry.h */;
+		name = "CKConnectionRegistry.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 0;
+	};
+	1F3DB06F0F5B30A40011AB38 /* CKConnectionRegistry.h */ = {
+		isa = PBXFileReference;
+		name = CKConnectionRegistry.h;
+		path = /Users/jannis/src/foreign/connection/trunk/CKConnectionRegistry.h;
+		sourceTree = "<absolute>";
+	};
+	1F3DB0700F5B30A40011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB0710F5B30A40011AB38 /* CKConnectionRegistry.m */;
+		name = "CKConnectionRegistry.m: 6";
+		rLen = 0;
+		rLoc = 192;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 0;
+	};
+	1F3DB0710F5B30A40011AB38 /* CKConnectionRegistry.m */ = {
+		isa = PBXFileReference;
+		name = CKConnectionRegistry.m;
+		path = /Users/jannis/src/foreign/connection/trunk/CKConnectionRegistry.m;
+		sourceTree = "<absolute>";
+	};
+	1F3DB0730F5B30A40011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB0660F5B30460011AB38 /* NSDictionary+Connection.h */;
+		name = "NSDictionary+Connection.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 0;
+	};
+	1F3DB0740F5B30A40011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB0750F5B30A40011AB38 /* CKConnectionRegistry.m */;
+		name = "CKConnectionRegistry.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 0;
+	};
+	1F3DB0750F5B30A40011AB38 /* CKConnectionRegistry.m */ = {
+		isa = PBXFileReference;
+		name = CKConnectionRegistry.m;
+		path = /Users/jannis/src/foreign/connection/trunk/CKConnectionRegistry.m;
+		sourceTree = "<absolute>";
+	};
+	1F3DB0760F5B30A40011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB0770F5B30A40011AB38 /* CKConnectionRegistry.h */;
+		name = "CKConnectionRegistry.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 0;
+	};
+	1F3DB0770F5B30A40011AB38 /* CKConnectionRegistry.h */ = {
+		isa = PBXFileReference;
+		name = CKConnectionRegistry.h;
+		path = /Users/jannis/src/foreign/connection/trunk/CKConnectionRegistry.h;
+		sourceTree = "<absolute>";
+	};
+	1F3DB0780F5B30A40011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB0790F5B30A40011AB38 /* CKConnectionRegistry.m */;
+		name = "CKConnectionRegistry.m: 6";
+		rLen = 0;
+		rLoc = 192;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 0;
+	};
+	1F3DB0790F5B30A40011AB38 /* CKConnectionRegistry.m */ = {
+		isa = PBXFileReference;
+		name = CKConnectionRegistry.m;
+		path = /Users/jannis/src/foreign/connection/trunk/CKConnectionRegistry.m;
+		sourceTree = "<absolute>";
+	};
+	1F3DB0B20F5B32290011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB06B0F5B309A0011AB38 /* CKConnectionProtocol.h */;
+		name = "CKConnectionProtocol.h: 207";
+		rLen = 17;
+		rLoc = 8180;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 7837;
+	};
+	1F3DB0EB0F5B38990011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB06B0F5B309A0011AB38 /* CKConnectionProtocol.h */;
+		name = "CKConnectionProtocol.h: 207";
+		rLen = 17;
+		rLoc = 8180;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 7837;
+	};
+	1F3DB0EC0F5B389A0011AB38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3DB0ED0F5B389A0011AB38 /* CKConnectionProtocol.h */;
+		name = "CKConnectionProtocol.h: 207";
+		rLen = 17;
+		rLoc = 8180;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 7797;
+	};
+	1F3DB0ED0F5B389A0011AB38 /* CKConnectionProtocol.h */ = {
+		isa = PBXFileReference;
+		name = CKConnectionProtocol.h;
+		path = /Library/Frameworks/Connection.framework/Versions/A/Headers/CKConnectionProtocol.h;
+		sourceTree = "<absolute>";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1F3DAD0C0F5B0DC80011AB38 /* ConnectionTest */;
+		activeTarget = 8D1107260486CEB800E47090 /* ConnectionTest */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* ConnectionTest */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 1F3DAD210F5B0DCC0011AB38 /* Code sense */;
+		executables = (
+			1F3DAD0C0F5B0DC80011AB38 /* ConnectionTest */,
+		);
+		expressions = (
+			type,
+			"[type objectForKey:ACTypeValueKey]",
+			ACTypeValueKey,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					389,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 257631472;
+			PBXWorkspaceStateSaveDate = 257631472;
+		};
+		perUserProjectItems = {
+			1F3DAE850F5B11950011AB38 /* PBXTextBookmark */ = 1F3DAE850F5B11950011AB38 /* PBXTextBookmark */;
+			1F3DAE8F0F5B11950011AB38 /* PBXTextBookmark */ = 1F3DAE8F0F5B11950011AB38 /* PBXTextBookmark */;
+			1F3DAF650F5B19020011AB38 /* PBXTextBookmark */ = 1F3DAF650F5B19020011AB38 /* PBXTextBookmark */;
+			1F3DB05A0F5B30460011AB38 /* PBXTextBookmark */ = 1F3DB05A0F5B30460011AB38 /* PBXTextBookmark */;
+			1F3DB05C0F5B30460011AB38 /* PBXTextBookmark */ = 1F3DB05C0F5B30460011AB38 /* PBXTextBookmark */;
+			1F3DB0610F5B30460011AB38 /* PBXTextBookmark */ = 1F3DB0610F5B30460011AB38 /* PBXTextBookmark */;
+			1F3DB0630F5B30460011AB38 /* PBXTextBookmark */ = 1F3DB0630F5B30460011AB38 /* PBXTextBookmark */;
+			1F3DB06D0F5B30A40011AB38 /* PBXTextBookmark */ = 1F3DB06D0F5B30A40011AB38 /* PBXTextBookmark */;
+			1F3DB06E0F5B30A40011AB38 /* PBXTextBookmark */ = 1F3DB06E0F5B30A40011AB38 /* PBXTextBookmark */;
+			1F3DB0700F5B30A40011AB38 /* PBXTextBookmark */ = 1F3DB0700F5B30A40011AB38 /* PBXTextBookmark */;
+			1F3DB0730F5B30A40011AB38 /* PBXTextBookmark */ = 1F3DB0730F5B30A40011AB38 /* PBXTextBookmark */;
+			1F3DB0740F5B30A40011AB38 /* PBXTextBookmark */ = 1F3DB0740F5B30A40011AB38 /* PBXTextBookmark */;
+			1F3DB0760F5B30A40011AB38 /* PBXTextBookmark */ = 1F3DB0760F5B30A40011AB38 /* PBXTextBookmark */;
+			1F3DB0780F5B30A40011AB38 /* PBXTextBookmark */ = 1F3DB0780F5B30A40011AB38 /* PBXTextBookmark */;
+			1F3DB0B20F5B32290011AB38 /* PBXTextBookmark */ = 1F3DB0B20F5B32290011AB38 /* PBXTextBookmark */;
+			1F3DB0EB0F5B38990011AB38 /* PBXTextBookmark */ = 1F3DB0EB0F5B38990011AB38 /* PBXTextBookmark */;
+			1F3DB0EC0F5B389A0011AB38 /* PBXTextBookmark */ = 1F3DB0EC0F5B389A0011AB38 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1F3DAD200F5B0DCC0011AB38 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* ConnectionTest */ = {
+		activeExec = 0;
+		executables = (
+			1F3DAD0C0F5B0DC80011AB38 /* ConnectionTest */,
+		);
+	};
+	B32B9FA90CF892620041714F /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1274, 612}}";
+			sepNavSelRange = "{821, 0}";
+			sepNavVisRange = "{0, 972}";
+			sepNavWindowFrame = "{{38, 168}, {1333, 684}}";
+		};
+	};
+	B32B9FAA0CF892620041714F /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {798, 1274}}";
+			sepNavSelRange = "{344, 37}";
+			sepNavVisRange = "{43, 513}";
+			sepNavWindowFrame = "{{38, 168}, {1333, 684}}";
+		};
+	};
+}

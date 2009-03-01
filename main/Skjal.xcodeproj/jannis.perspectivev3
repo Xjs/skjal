@@ -213,6 +213,7 @@
 				<string>active-combo-popup</string>
 				<string>action</string>
 				<string>NSToolbarFlexibleSpaceItem</string>
+				<string>buildOrClean</string>
 				<string>build-and-go</string>
 				<string>com.apple.ide.PBXToolbarStopButton</string>
 				<string>NSToolbarFlexibleSpaceItem</string>
@@ -290,7 +291,7 @@
 							<real>185</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>547 173 810 487 0 0 1440 878 </string>
+						<string>444 84 810 487 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -327,18 +328,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {603, -2}}</string>
+								<string>{{0, 0}, {603, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>547 173 810 487 0 0 1440 878 </string>
+								<string>444 84 810 487 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>-2pt</string>
+							<string>0pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>443pt</string>
+							<string>441pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -354,9 +355,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {603, 416}}</string>
+										<string>{{10, 27}, {603, 414}}</string>
 										<key>RubberWindowFrame</key>
-										<string>547 173 810 487 0 0 1440 878 </string>
+										<string>444 84 810 487 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -438,11 +439,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>1FFB42140F5AF27D00907206</string>
+				<string>1FCE9D240F5B38D20096ECC1</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>1FFB42150F5AF27D00907206</string>
+				<string>1FCE9D250F5B38D20096ECC1</string>
 				<string>1FFB42120F5AF27D00907206</string>
-				<string>1FFB42160F5AF27D00907206</string>
+				<string>1FCE9D260F5B38D20096ECC1</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -608,10 +609,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>/Users/jannis/src/learning/objc/Skjal/Skjal.xcodeproj</string>
+		<string>/Users/jannis/src/learning/objc/Skjal/main/Skjal.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>547 173 810 487 0 0 1440 878 </string>
+	<string>444 84 810 487 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
